@@ -2,6 +2,10 @@
    Next.js - Redux State Management
 </h1>
 
+<h2>
+📷 Screenshots
+</h2>
+
 <p align="center">
   <img src="https://github.com/ozkannbuyuk/nextjs-redux-state-management/assets/111967202/0005f993-4637-44c8-b19e-cf5b3db92390" width="700" />
 </p>
